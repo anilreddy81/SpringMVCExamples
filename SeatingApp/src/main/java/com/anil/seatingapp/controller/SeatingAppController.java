@@ -1,4 +1,4 @@
-package com.hcl.SeatingAppController;
+package com.anil.seatingapp.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
